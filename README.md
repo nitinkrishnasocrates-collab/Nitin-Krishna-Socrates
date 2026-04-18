@@ -1,4 +1,4 @@
-# Nitin-Krishna-Socrates
+# #Nitin-Krishna-Socrates
 <h1 align="center">Hi Everyone 👋, I'm Nitin Krishna S M</h1>
 <h3 align="center">A passionate application and website developer from India.</h3>
 
